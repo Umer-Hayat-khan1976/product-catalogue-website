@@ -1,0 +1,38 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+body {
+    background-color:wheat;
+
+}
+nav {
+    width : 100%;
+    height : 100px;
+    background-color: purple;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+#logo {
+    height: 80px;
+    background-attachment: fixed;
+    width: 120px;
+    border-radius: 50%;
+   
+
+}
+.input {
+    display: flex;
+}
+
+input {
+    height: 40px;
+    width : 420px;
+}
+i {
+    width: 10px;
+    height: 30px;
+}
